@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/91302698?v=4" width="299" height="275"/>
+  <img src="https://github.com/xocybersec/TryHackMe-Walkthroughs/assets/91302698/4f00680b-7d0e-4a66-92ac-bc6ec80c2dfa" width="610" height="258"/>
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/quinn-kevresian-287a6a255">
