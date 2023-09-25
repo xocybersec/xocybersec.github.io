@@ -19,9 +19,13 @@ Inside these repositories, you'll find various CTF challenge walkthroughs that p
 
 Repositories
 ---
-<a href="https://github.com/xocybersec/TryHackMe-Walkthroughs">TryHackMe</a>
+<a href="https://github.com/xocybersec/Hacker101-Walkthroughs">Hacker 101</a>
 
 <a href="https://github.com/xocybersec/picoCTF-Walkthroughs">picoCTF</a>
+
+<a href="https://github.com/xocybersec/RootMe-Walkthroughs">RootMe</a>
+
+<a href="https://github.com/xocybersec/TryHackMe-Walkthroughs">TryHackMe</a>
 
 Engage and Connect
 ---
