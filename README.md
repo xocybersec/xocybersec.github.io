@@ -23,8 +23,6 @@ Repositories
 
 <a href="https://github.com/xocybersec/picoCTF-Walkthroughs">picoCTF</a>
 
-<a href="https://github.com/xocybersec/RootMe-Walkthroughs">RootMe</a>
-
 <a href="https://github.com/xocybersec/TryHackMe-Walkthroughs">TryHackMe</a>
 
 Engage and Connect
